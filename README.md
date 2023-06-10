@@ -1,4 +1,4 @@
-# Project Title
+# Create My Own Token (Solidity Course Final Project)
 
 Simple overview of use/purpose.
 
