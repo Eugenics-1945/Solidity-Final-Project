@@ -9,8 +9,8 @@ from burning more than the current token supply that we have.
 
 ### Executing program
 
-* How to run the program
-* Step-by-step bullets
+* After coding, simply click compile on the Remix IDE
+* After compiling click deploy then the code will run.
 ```
 code blocks for commands
 ```
