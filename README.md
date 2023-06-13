@@ -14,7 +14,8 @@ from burning more than the current token supply that we have.
 
 ## Authors
 
-Contributors names and contact info
 *Mark Eugene A. Dulay  
 [LinkedIn](https://www.linkedin.com/in/mark-eugene-dulay-1943b0244/)
+
+
 
