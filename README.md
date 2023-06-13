@@ -1,17 +1,11 @@
 # Create My Own Token (Solidity Course Final Project)
 
-Simple overview of use/purpose.
+A contract that simply mints and burns a Token and reflects the current supply of it.
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
-
-## Getting Started
-
-### Installing
-
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+This contract demonstrates the minting ang burning function of the etherium platform, we put in a conditional statement to prevent us 
+from burning more than the current token supply that we have.
 
 ### Executing program
 
