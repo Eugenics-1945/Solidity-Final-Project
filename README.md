@@ -11,25 +11,10 @@ from burning more than the current token supply that we have.
 
 * After coding, simply click compile on the Remix IDE
 * After compiling click deploy then the code will run.
-```
-code blocks for commands
-```
-
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
 
 ## Authors
 
 Contributors names and contact info
+Mark Eugene A. Dulay  
+[LinkedIn](https://www.linkedin.com/in/mark-eugene-dulay-1943b0244/)
 
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
-
-
-## License
-
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
