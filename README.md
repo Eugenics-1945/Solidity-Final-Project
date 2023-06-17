@@ -4,7 +4,7 @@ A contract that simply mints and burns a Token and reflects the current supply o
 
 ## Description
 
-This contract demonstrates the minting ang burning function of the etherium platform, we put in a conditional statement to prevent us 
+This contract demonstrates the minting and burning function of the etherium platform, we put in a conditional statement to prevent us 
 from burning more than the current token supply that we have.
 
 ### Executing program
